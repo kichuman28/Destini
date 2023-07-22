@@ -1,4 +1,4 @@
-# Destini 🤔
+# Destini 🤔: A make your own adventure game app.
 
 This app is a make your own adventure game, similar to the Netflix movie 'Bandersnatch'.
 
